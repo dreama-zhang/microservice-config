@@ -5,8 +5,8 @@ spring:
 ---
 spring:
   profiles: dev
-port: 111
+env: 111
 ---
 spring:
   profiles: test
-port: 222
+env: 222
